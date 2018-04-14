@@ -1,0 +1,42 @@
+body.sign-body{
+background-color: #e6f2ff; 
+}
+
+.container.sign-container{
+    margin-top: 8%;
+}
+
+.card.sign-card{
+    
+    padding: 40px 0px 20px;
+    background-color: #f4f4f4;
+    box-shadow: 2px 2px 5px rgba(0,0,0,.5);
+
+}
+
+img.sign-image{
+    
+    padding: 0 2rem 2rem;
+    margin: auto;
+    display: block;
+    width: 50%;
+}
+
+form.sign-form{
+    max-width: 350px;
+    margin: auto;
+}
+
+button.sign-btn{
+    color: #ffffff;
+    background-color:blue;
+    width: 100%;
+    margin-bottom: 1.2rem;
+}
+
+a.create{
+    font-size: 1.2rem;
+    text-align: center;
+    display: block;
+    margin-top: 15px;
+}
